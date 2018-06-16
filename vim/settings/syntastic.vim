@@ -17,7 +17,7 @@ let g:syntastic_check_on_wq = 0
 
 " Default to eslint. If you need jshint, you can override this in
 " ~/.vimrc.after
-let g:syntastic_javascript_checkers = ['eslint']
+let g:syntastic_javascript_checkers = ['']
 " let g:syntastic_debug = 3
 " let g:syntastic_javascript_eslint_exe = 'npm run lint --'
 
