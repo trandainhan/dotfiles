@@ -149,5 +149,8 @@ call neomake#configure#automake('rw', 500)
 
 let g:neomake_open_list = 2
 
-nnoremap <C-l>c :lclose<CR>
-nnoremap <C-l>e :lopen<CR>
+" these mapping cause switching panne slowly
+" nnoremap <C-l>c :lclose<CR>
+" nnoremap <C-l>e :lopen<CR>
+
+vmap u <noh>
