@@ -39,7 +39,7 @@ let g:ctrlp_map = ',<Space>'
 nnoremap <silent> ,<Space> :CtrlP<CR>
 
 " Additional mapping for buffer search
-nnoremap <silent> ,r :CtrlPBuffer<cr>
+nnoremap <silent> ,b :CtrlPBuffer<cr>
 
 " Cmd-Shift-P to clear the cache
 nnoremap <silent> <D-P> :ClearCtrlPCache<cr>

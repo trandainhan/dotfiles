@@ -141,3 +141,4 @@ vmap u <noh>
 set ttimeoutlen=0
 
 set clipboard=unnamed
+set re=1
