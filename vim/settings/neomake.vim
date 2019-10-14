@@ -12,3 +12,5 @@ call neomake#configure#automake('rw', 1000)
 
 let g:neomake_open_list = 2
 let g:neomake_list_height = 5
+let g:neomake_python_pep8_exe = 'python3'
+let g:neomake_python_enabled_makers = ['pep8']

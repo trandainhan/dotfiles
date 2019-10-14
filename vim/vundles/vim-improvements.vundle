@@ -29,5 +29,6 @@ Bundle "vim-scripts/sudo.vim"
 Bundle "goldfeld/ctrlr.vim"
 Bundle "editorconfig/editorconfig-vim"
 Bundle "neomake/neomake"
-" Bundle "pangloss/vim-javascript.git"
-Plugin 'fatih/vim-go'
+Bundle "pangloss/vim-javascript.git"
+Bundle 'fatih/vim-go'
+Bundle 'python-mode/python-mode'
