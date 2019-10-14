@@ -127,3 +127,6 @@
   path = .gitconfig.user
 [commit]
   template = ~/.yadr/git/gitmessage
+[user]
+	name = Nhan Tran
+	email = trdainhan@gmail.com
